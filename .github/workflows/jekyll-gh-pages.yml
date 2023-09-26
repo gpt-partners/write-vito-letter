@@ -33,8 +33,9 @@ jobs:
       - name: Set up Node
         uses: actions/setup-node@v3
         with:
-          node-version: '20'
-          cache: 'npm'
+          node-version: "latest"
+          cache: "npm"
+          cache-dependency-path: "./docs/package-lock.json"
       - name: Install dependencies
         run: npm install
         working-directory: ./docs
@@ -46,7 +47,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          path: './docs/build'
+          path: "./docs/build"
 
   # Deployment job
   deploy:
