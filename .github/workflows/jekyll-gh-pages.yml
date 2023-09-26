@@ -34,10 +34,9 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '20'
-          path: './docs'
           cache: 'npm'
       - run: cd docs && npm install
-      - run: npm build
+      - run: cd docs && npm build
       - run: echo 'docs.write-vito.gpt-partners.com' > ./docs/build/CNAME
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
