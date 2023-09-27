@@ -18,6 +18,7 @@ Write-VITO is a platform for generating VITO The Very Important [Top Officer](ht
   - [ ] Basic authentication
   - [ ] One LinkedIn profile
   - [ ] Use own keys
+  - [ ] Deploy with docker-compose
 - [ ] **v0.2** - Time to share
   - [ ] Improved Documentation
     - [ ] Add a tutorial
@@ -26,6 +27,9 @@ Write-VITO is a platform for generating VITO The Very Important [Top Officer](ht
   - [ ] Multiple profiles
   - [ ] Allow users to subcribe the service
   - [ ] Improved UX/UI
+  - [ ] Add a blog with [GoHugo](https://gohugo.io/)
+  - [ ] Add E2E tests with [Playwright](https://playwright.dev/)
+  - [ ] Add A/B testing framework with [Growthbook](https://www.growthbook.io/)
 - [ ] **v0.3** - Make it smarter & private
   - [ ] Private space to upload profiles
     - [ ] Use PrivateGPT as LLM and Embedding
