@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## 🚀 What's next?
 
-<iframe  width="800" height="450" src="https://whimsical.com/embed/U1XffvPhZxXtNT5Y2ucGvg"></iframe>
+<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/8FZvmwH5LyHmD32qdoHVt7"></iframe>
 
 ## The Vision
 
