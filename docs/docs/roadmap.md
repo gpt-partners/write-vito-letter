@@ -6,11 +6,11 @@ sidebar_position: 1
 
 ## 🚀 What's next?
 
-<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/8FZvmwH5LyHmD32qdoHVt7"></iframe>
+<iframe width="800" height="450" src="https://whimsical.com/embed/8FZvmwH5LyHmD32qdoHVt7"></iframe>
 
 ## The Vision
 
-Write-VITO is a platform for generating VITO (The Very Important Top Officer)[https://www.amazon.de/Selling-Vito-Very-Important-Officer/dp/1580622240] emails or LinkedIn messages. It will scrape the LinkedIn profile and seek relevant information to generate a personalized message.
+Write-VITO is a platform for generating VITO The Very Important [Top Officer](https://www.amazon.de/Selling-Vito-Very-Important-Officer/dp/1580622240) emails or LinkedIn messages. It will scrape the LinkedIn profile and seek relevant information to generate a personalized message.
 
 - [ ] **v0.1** - the Web App
   - [ ] Basic CRUD operations
