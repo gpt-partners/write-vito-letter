@@ -1,4 +1,4 @@
 # vercel
 .vercel
-backend/__pycache__/*
+backend/app/__pycache__/*
 .DS_Store
