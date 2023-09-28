@@ -1,3 +1,4 @@
+# https://www.pinecone.io/learn/fast-retrieval-augmented-generation/
 from fastapi import FastAPI
 
 app = FastAPI()
