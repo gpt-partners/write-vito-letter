@@ -30,6 +30,7 @@ Write-VITO is a platform for generating VITO The Very Important [Top Officer](ht
   - [ ] Add a blog with [GoHugo](https://gohugo.io/)
   - [ ] Add E2E tests with [Playwright](https://playwright.dev/)
   - [ ] Add A/B testing framework with [Growthbook](https://www.growthbook.io/)
+  - [ ] Drive interaction with [beehiiv](https://beehiiv.com/)
 - [ ] **v0.3** - Make it smarter & private
   - [ ] Private space to upload profiles
     - [ ] Use PrivateGPT as LLM and Embedding
