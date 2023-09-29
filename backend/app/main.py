@@ -19,7 +19,6 @@ async def vito_message(vitoRequest: VitoRequest) -> VitoResponse:
     return {"message": "Jesus is the way, the truth, and the life."}
 
 
-
 if __name__ == "__main__":
     import uvicorn
 
